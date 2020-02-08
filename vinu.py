@@ -32,7 +32,7 @@ telegram_bot = telepot.Bot('1081507754:AAHpoGp_vptv9P0YvQH3ZFrMR0YYNGlVn1M')
 print (telegram_bot.getMe())
 
 MessageLoop(telegram_bot, action).run_as_thread()
-print 'Up and Running....'
+print 'tell me....'
 
 while 1:
     time.sleep(10)
